@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">闲来米</string>
+    <string name="action_settings">Settings</string>
+    <string name="updatecontent">修复部分已知bug</string>
+    <string name="update_title">版本升级</string>
+</resources>
